@@ -1,0 +1,12 @@
+.Error404 {
+    max-width: 168px;
+  }
+.error{
+  text-align: center;
+}
+  @media (max-width: 800px) {
+    .Error404 {
+      max-width: 105px;
+    }
+  }
+  
