@@ -1,0 +1,130 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Músicas Eletrônicas",
+      "descricao": "Melhores músicas eletrônicas",
+      "cor": "#FF1493"
+    },
+    {
+      "id": 2,
+      "titulo": "Fórro",
+      "descricao": "Melhores músicas de fórro do Brasil",
+      "cor": "#FF1493"
+    },
+    {
+      "id": 3,
+      "titulo": "Sertanejo",
+      "descricao": "O Melhor do sertanejo",
+      "cor": "#FF1493"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Melhores músicas Eletrônicas",
+      "url": "https://www.youtube.com/watch?v=JQ1rCUx2zqc"
+    },
+    {
+      "titulo": "Musicas Eletronicas Mais Mais Tocadas 2020",
+      "url": "https://www.youtube.com/watch?v=WYkDqZumOqI"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "ALOK Villa Mix Brasília 2017",
+      "url": "https://www.youtube.com/watch?v=bPFT4YKLzMg"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Ibiza Summer Mix 2020",
+      "url": "https://www.youtube.com/watch?v=6zPbOMhJhfw"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "ALOK MIX 2020 - MELHORES MÚSICAS ELETRÔNICAS 2020",
+      "url": "https://www.youtube.com/watch?v=fyuYhY4Iml0"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Melhores Musicas Eletronicas 2018",
+      "url": "https://www.youtube.com/watch?v=wKrf2lYp9NU"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "Raí Saia Rodada - Amor de Rapariga part. @Tony Guerra",
+      "url": "https://www.youtube.com/watch?v=iqd91kiK3Ys&list=PLxFfose56Ajf5F-nGlOXC6MuqtrhY0x17"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "Mano Walter - Matuto de Verdade",
+      "url": "https://www.youtube.com/watch?v=l4Ld9qrFBiU&list=PLxFfose56Ajf5F-nGlOXC6MuqtrhY0x17&index=2"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Jonas Esticado - Investe em mim",
+      "url": "https://www.youtube.com/watch?v=Tupv5w2BPJw&list=PLxFfose56Ajf5F-nGlOXC6MuqtrhY0x17&index=3"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Wesley Safadão - Vai Lá - DVD WS Em Casa 2 - Live do Safadão",
+      "url": "https://www.youtube.com/watch?v=U8Aoz_vlxFE&list=PLxFfose56Ajf5F-nGlOXC6MuqtrhY0x17&index=4"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Xand Avião - Meu Fraco",
+      "url": "https://www.youtube.com/watch?v=syI-CKkK8XE&list=PLxFfose56Ajf5F-nGlOXC6MuqtrhY0x17&index=5"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Wesley Safadão - Esfriou Demais",
+      "url": "https://www.youtube.com/watch?v=GRaQaFaABtA&list=PLxFfose56Ajf5F-nGlOXC6MuqtrhY0x17&index=6"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "Jorge & Mateus - CHEIROSA",
+      "url": "https://www.youtube.com/watch?v=YZT1U2rlvyM&list=RDQM1hSle_MacIs&index=6"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Henrique e Juliano - VOLTA POR BAIXO",
+      "url": "https://www.youtube.com/watch?v=9Ef-Nmqf7C0&list=RDQM1hSle_MacIs&index=7"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Marília Mendonça - SUPERA",
+      "url": "https://www.youtube.com/watch?v=7fMttPxpcmg&list=RDQM1hSle_MacIs&index=11"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Henrique e Juliano - NÃO GOSTO EU AMO",
+      "url": "https://www.youtube.com/watch?v=m5wGJ5Fbtjs&list=RDQM1hSle_MacIs&index=12"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Matheus & Kauan - Vou Ter Que Superar (Ao Vivo) ft. Marilia Mendonça",
+      "url": "https://www.youtube.com/watch?v=IJmxyfbRg0A&list=RDQM1hSle_MacIs&index=16"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Gustavo Mioto - COM OU SEM MIM",
+      "url": "https://www.youtube.com/watch?v=htc1z4Uv0HA&list=RDQM1hSle_MacIs&index=17"
+    }
+  ]
+}
